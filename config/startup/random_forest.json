@@ -1,0 +1,8 @@
+{
+    "config": {
+        "diskTimeout": 525600000,
+        "memoryTimeout": 525600000
+    },
+    "modelName": "rf",
+    "uri": "file:/opt/docker/models/random_forest.zip"
+}
